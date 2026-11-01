@@ -1,1 +1,1 @@
-<img src="assets/n0zos.svg" width="100%" alt="n0zart, developer and designer. A self-running black and white desktop: a terminal prints N0ZART in ASCII letters while a pointer opens a spinning ASCII donut and a note saying nothing is real in this world.">
+<img src="assets/desktop.svg" width="100%" alt="n0zart, developer and designer. A realistic self-running black and white Linux desktop: a lock screen unlocks, a terminal prints N0ZART in block letters, and a notification says nothing is real in this world.">
