@@ -1,1 +1,1 @@
-<img src="assets/n0zart.svg" width="100%" alt="n0zart, developer and designer. Black and white optical illusion: rings radiate from the zero in the name. Nothing is real in this world.">
+<img src="assets/n0zart.svg" width="100%" alt="n0zart, developer and designer. A self-running black and white desktop: a terminal prints N0ZART in ASCII letters while a pointer opens a spinning ASCII donut and a note saying nothing is real in this world.">
