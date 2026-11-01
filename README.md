@@ -3,3 +3,5 @@
 <img src="assets/mac.svg" width="100%" alt="n0zart skills on a black and white Mac desktop: HTML, CSS, JavaScript, TypeScript, Python, React, Next.js, Node.js, Tailwind CSS, Figma, Git and GitHub.">
 
 <img src="assets/iphone.svg" width="100%" alt="A concept banking app on an iPhone in black and white: sign in, Face ID, then a live balance screen. Fictional bank and sample data.">
+
+<img src="assets/windows.svg" width="100%" alt="A fictional SaaS dashboard for hiring AI employees, shown in a black and white glass Windows 11 desktop. A pointer hires a new AI recruiter named Iris, who joins the team. Sample data.">
